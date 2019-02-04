@@ -5,5 +5,5 @@ applications:
   routes:
   - route: production-pal-tracker.apps.evans.pal.pivotal.io
   env:
-    WELCOME_MESSAGE: Hello from the production environments
+    WELCOME_MESSAGE: Hello from the production environment
     
